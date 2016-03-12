@@ -1,2 +1,2 @@
 # NQueens
-hw for friends
+
